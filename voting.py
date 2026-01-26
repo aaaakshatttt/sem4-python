@@ -6,5 +6,6 @@ if age > 18 and (id == "yes" or id ==  'Yes'):
 elif age > 18 and (id == "no" or id == "No"):
     print("no id")
 elif age < 18 and (id == "yes" or id ==  'Yes'):
-    print("underage")
-       
+    print("fake id")
+else:
+    print("sybai")       
